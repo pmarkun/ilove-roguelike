@@ -1,0 +1,10 @@
+# RogueLike em Lua (Love Framework)
+
+Todo v0.1
+
+* Background
+* Personagem capaz de se mover pelo cenario
+* 'Minecraftiavel' -> Blocos tem propriedades
+* Vasos empurraveis
+* Pick up
+* Placedown
